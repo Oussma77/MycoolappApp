@@ -10,7 +10,7 @@ public class FunRestController {
 
     @GetMapping("/")
     public String sayHello() {
-        return "Hello World Again in 2024!";
+        return "This New Project ..";
     }
 
 }
